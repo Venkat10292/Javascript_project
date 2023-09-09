@@ -18,7 +18,7 @@ How to Play
 
 >Clone this GitHub repository to your local machine:
 
- git clone https://github.com/your-username/guess-the-number.git
+ Git Clone:- https://github.com/Venkat10292/Javascript_project.git
 
 >Navigate to the project directory:
 
@@ -34,8 +34,6 @@ How to Play
 
  DOM Manipulation: The game relies on manipulating the Document Object Model (DOM) to update the user interface dynamically.
 
- Game Preview
- Guess the Number Game
 
  Credits
  This game was created by [Naga Venkateswarlu Gadamsetty]. Feel free to contribute or provide feedback by opening issues or pull requests on this GitHub repository.
