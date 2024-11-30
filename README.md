@@ -1,7 +1,5 @@
-# Javascript_project
+# Guess the Number
 
-
-Guess the Number Game
 Welcome to the Guess the Number game! This simple web-based game was created using JavaScript, HTML, and CSS. The objective of the game is to guess a randomly generated number between 1 and 20. Each incorrect guess reduces your score, and you can also track your highscore. The game utilizes the Document Object Model (DOM) for user interaction and manipulation.
 
 How to Play
